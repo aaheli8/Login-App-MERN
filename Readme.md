@@ -13,3 +13,7 @@ When someone mentions an "FLTK-based text editor," they are likely referring to 
 - Cut/copy/delete/paste functions.
 - Search and replace functions.
 - Keep track of when the file has been changed.
+
+### References
+
+- https://www.fltk.org/doc-1.1/editor.html
