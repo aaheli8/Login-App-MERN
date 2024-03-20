@@ -14,6 +14,11 @@ When someone mentions an "FLTK-based text editor," they are likely referring to 
 - Search and replace functions.
 - Keep track of when the file has been changed.
 
+
+## Demo
+![image](https://github.com/aaheli8/Text-Editor/assets/66815283/5aed37ff-386f-457b-b59c-121631b620ad)
+
+
 ### References
 
 - https://www.fltk.org/doc-1.1/editor.html
